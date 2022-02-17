@@ -2,8 +2,6 @@ import TicTacToe as ttt
 
 import sys
 
-# test
-
 
 class Player:
     def __init__(self):
